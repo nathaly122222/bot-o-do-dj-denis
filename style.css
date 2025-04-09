@@ -1,0 +1,16 @@
+/*Estilize o botão conforme suas preferencias */
+.save-button{
+    background-color: red;
+    color:aliceblue;
+    border:nome;
+    padding:10px 20px;
+    font-size: 16px;
+    cursor:pointer;
+    opacity:0.8; /* opacidade */
+    transition: opacity 0.3 ease; /* Transição suave */
+    border-radius: 5%;
+}
+
+.save-button:hover{
+    opacity: 1; /* Opacidade total ao passar
+}
